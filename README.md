@@ -1,5 +1,5 @@
 <h1>Guess It</h1> 
-<h2>"Guess it" is the clone version of the game</h2> 
+<h2><a href="https://play.google.com/store/apps/details?id=com.DefaultCompany.GuessIt" target="_blank">Google Play Store</a></h2> 
 
  <p>
 <a>You can choose the category that suits you and start playing. </a> 
